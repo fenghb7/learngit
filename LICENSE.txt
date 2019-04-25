@@ -1,1 +1,5 @@
-qwohgeqngninv，随便写的LICENSE
+<<<<<<< HEAD
+qwohgeqnNSE
+=======
+learngit2:license
+>>>>>>> 45a8284e63a6ca0ec1208d8594553a29d3f1a45b
